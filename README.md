@@ -8,3 +8,13 @@ A repository for work on to the kaggle exercises
 - Create a branch off master, using your name for the branch.
 - Join the titanic competition at https://www.kaggle.com/c/titanic
 - Go to the tutorial at https://www.kaggle.com/startupsci/titanic-data-science-solutions
+- Download python at https://www.python.org/downloads/release/python-364/
+- Install the following python packages. Documentation on installing python packages can be found here - https://packaging.python.org/tutorials/installing-packages/ 
+- - pandas
+- - numpy
+- - seaborn
+- - matplotlib
+- - sklearn (scikit-learn)
+
+See you monday,
+Robert
