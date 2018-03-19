@@ -10,10 +10,8 @@ A repository for work on to the kaggle exercises
 - Go to the tutorial at https://www.kaggle.com/startupsci/titanic-data-science-solutions
 - Download python at https://www.python.org/downloads/release/python-364/
 - Install the following python packages (documentation on installing python packages can be found here - https://packaging.python.org/tutorials/installing-packages/ )
-- - pandas
 - - numpy
-- - seaborn
-- - matplotlib
+- - seaborn (contains pandas and matplotlib)
 - - sklearn (scikit-learn)
 
 See you monday,
